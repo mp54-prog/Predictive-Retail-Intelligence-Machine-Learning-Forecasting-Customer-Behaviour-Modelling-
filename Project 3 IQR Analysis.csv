@@ -1,0 +1,9 @@
+Statistics,Value
+Q1,2975
+Q3,5075
+IQR,2100
+Lower Bound,-175
+Upper Bound,8225
+Min Value,2500
+Max Value,7000
+Conclusion,All values fall within bounds → no outliers
